@@ -107,7 +107,7 @@ class MyApp extends StatelessWidget {
                       size: 35,
                     ),
                     title: Text(
-                      " sarveshFlutterDev@gmail.com",
+                      " SarveshDev@flutter.com",
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         wordSpacing: 2,
