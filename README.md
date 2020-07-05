@@ -1,3 +1,3 @@
-A single screen personal Business card using Flutter framework.
+A single screen personal card using Flutter framework.
 
 <img src="images/ss.png" width="25%"/>
