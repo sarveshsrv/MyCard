@@ -34,6 +34,13 @@ flutter:
   assets:
      - images/img.png
    
+  fonts:
+     - family: Galada
+       fonts:
+         - asset: fonts/Galada-Regular.ttf
+     - family: LobsterTwo
+       fonts:
+         - asset: fonts/LobsterTwo-Bold.ttf         
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
