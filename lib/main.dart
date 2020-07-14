@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
                     //fontStyle: FontStyle.italic,
                   ),
                 ),
-                 SizedBox(
+                SizedBox(
                   height: 2.0,
                   width: 100.0,
                   child: Divider(
